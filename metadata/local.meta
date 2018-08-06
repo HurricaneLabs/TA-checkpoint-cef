@@ -1,0 +1,11 @@
+[app/ui]
+version = 6.5.3
+modtime = 1491589566.089081000
+
+[app/launcher]
+version = 6.5.3
+modtime = 1491589566.091608000
+
+[app/package/check_for_updates]
+version = 6.5.3
+modtime = 1491589566.092588000
