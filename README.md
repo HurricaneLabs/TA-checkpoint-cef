@@ -65,8 +65,6 @@ This app requires that the Check Point management server controlling gateways be
 
 ##### Support
 
-**Support**
-
 TO DO: App to become officially Splunk supported, Hurricane Labs will transfer ownership of app to Splunk for this purpose. 
 
 ## INSTALLATION AND CONFIGURATION
