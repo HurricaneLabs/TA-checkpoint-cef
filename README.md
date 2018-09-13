@@ -32,7 +32,7 @@
 | --- | --- |
 | App Version | 1.0.1 |
 | Vendor Products | Check Point |
-| Has index-time operations | false |
+| Has index-time operations | true |
 | Create an index | false |
 | Implements summarization | false |
 
