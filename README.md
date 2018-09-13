@@ -111,3 +111,8 @@ The app has index-time sourcetyping operations.  This app should be deployed to 
 
 #### Known Issues
 - Several field extractions are currently untested
+
+
+#### Acknowledgements
+- App is written to mirror functionality in the Splunk Add-on for Check Point OPSEC LEA, https://splunkbase.splunk.com/app/3197/
+- CEF processing is based on Igor Sher's CEF Extraction Add-on for Splunk app, https://splunkbase.splunk.com/app/487/
