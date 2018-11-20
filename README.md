@@ -37,7 +37,7 @@
 
 | Author | Tom Kopchak, Hurricane Labs |
 | --- | --- |
-| App Version | 1.0.1 |
+| App Version | 1.0.2 |
 | Vendor Products | Check Point |
 | Has index-time operations | true |
 | Create an index | false |
@@ -51,6 +51,8 @@ This app supports the new Log Exporter method for Check Point logging.  This res
 - There is not a gap in logging that occurs during a logrotate on the management server (this commonly resulted in missing logs occurring daily at midnight).
 
 #### Release notes
+
+Version 1.0.2 is the third release.  It adds additional values to the checkpoint_cef_actions.csv lookup in support of CIM compliance. 
 
 Version 1.0.1 is the second release. It adds support for audit logging and contains minor edits to version 1.0.0.
 

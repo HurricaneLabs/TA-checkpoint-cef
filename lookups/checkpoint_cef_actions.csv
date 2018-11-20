@@ -3,4 +3,8 @@ Drop,blocked
 Decrypt,allowed
 Encrypt,allowed
 Accept,allowed
+Allow,allowed
 Reject,blocked
+Redirect,allowed
+VPN Routing,allowed
+Key Install,allowed
